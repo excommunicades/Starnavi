@@ -9,13 +9,13 @@
 ### Using SQLite
 
 **Clone the Repository**:
-   ```bash
-   - git clone https://github.com/excommunicades/Starnavi.git
-   - cd Starnavi
+
+    git clone https://github.com/excommunicades/Starnavi.git
+    cd Starnavi
 
 ### Install Dependencies: Make sure to have a virtual environment set up, then run:
 
-     pip install -r requirements.txt
+    pip install -r requirements.txt
     
 
     DEBUG = True
@@ -36,11 +36,7 @@
     Run the Development Server: Start the server with the following command: python manage.py runserver
 
 ##### You can access the application at http://127.0.0.1:8000/.
-#
-#
-#
-#
-#
+
 # Using Docker with PostgreSQL
 
     git clone https://github.com/excommunicades/Starnavi.git
