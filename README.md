@@ -48,10 +48,12 @@
     POSTGRES_DB=Starnavi
     POSTGRES_USER=postgres
     POSTGRES_PASSWORD=12345
+    
+    # DJANGO Settings
+    DJANGO_SETTINGS_MODULE=Starnavi.settings
 
 ### DJANGO Settings
 
-    DJANGO_SETTINGS_MODULE=Starnavi.settings
 
     Configure settings.py: Ensure your settings.py file contains the following configurations for PostgreSQL:
 
